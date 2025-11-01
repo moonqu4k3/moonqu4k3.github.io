@@ -1,17 +1,16 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, ramme]
-date: 2016-03-21
+title: about the webmaster
+tags: [about]
+date: 2025-11-01
 ---
 ![Logo]({{ site.url }}/{{ site.picture }}){: .selfie}
 
-**Ramme** is a simple jekyll theme.
+thanks for checking out my page!
      
-I made this theme after seeing this [screenshot](http://spoonm.org/share/rice/01.png). I took some parts from @mmistakes, like TOC, sample posts. I never tought making a theme from scratch would be this hard. And it's still WIP.
+i made this website so i could have a place to say everything i want to say without counting likes, story views, or comments. 
      
-I'm not a designer or something, so I'm sure there is a better way to make this theme. But it's working and looks acceptable for different screen sizes. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.
+i would eventually like to leave social media, but i still derive too much pleasure from it for now, and i cherish the connections i have and continue to make on there. so this site is really a suppliment to it right now.
+
+i enjoy a multitude of things, though anime and video games have and will always be my biggest two. here are some things I'm really into right now:
      
-You want to **use it?**      
-      
-[Install Ramme](https://github.com/TaylanTatli/Ramme){: .btn}
