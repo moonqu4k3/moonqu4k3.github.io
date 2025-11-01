@@ -1,10 +1,10 @@
 # Site
-title:          Ramme
-bio:            'Just a simple Jekyll theme'
-description:    "Simple Jekyll theme for your blog by Taylan Tatlı"
+title:          rev's homepage
+bio:            'Rev A.K.A Aslan</p>23 years old</p>Any pronouns</p>'
+description:    "Amateur at everything but passionate nonetheless. Teller of stories such as EniYukie, HYPERFAITH, and most recently, CelShade. Artist of some skill."
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            http://taylantatli.me/Ramme
+url:            https://moonqu4k3.github.io
 
 # Jekyll
 permalink:      /:title/
@@ -23,8 +23,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: WJIKAQ4KU
+#facebook: username
 #google:
   #plus: #username
   #analytics:
@@ -32,18 +32,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
-stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+#github: username
+#stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+#linkedin: username
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
-#pinterest: username
+instagram: vorepride
+#lastfm: username
+#tumblr: username
+pinterest: moonqu4ke
 #foursquare: username
-steam: username
+steam: moonqu4ke
 #dribbble: username
-youtube: username
+#youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
