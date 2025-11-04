@@ -42,6 +42,20 @@ body {
 	text-align: center;
 	transition: all .7s;
 }
+.sitemap {
+	width: 30%;
+	height: auto;
+	max-height: 30%;
+	border: 1px solid $color_1;
+	background: $color_2;
+	margin: 0.95em 0 0.95em 0;
+	position: relative;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 11em;
+	transition: all .7s;
+}
 .wrapper {
 	width: 50%;
 	height: auto;
