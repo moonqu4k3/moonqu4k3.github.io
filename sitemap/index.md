@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: sitemap
 title: sitemap
 tags: [sitemap]
 ---
