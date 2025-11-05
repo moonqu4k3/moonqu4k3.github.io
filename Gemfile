@@ -1,7 +1,7 @@
 source 'http://rubygems.org'
 
 gem 'github-pages', '~> 232'
-gem 'rouge', '~> 4.6', '>= 4.6.1'
+gem 'rouge', '~> 3.30.0'
 gem 'jekyll', '~> 3.10.0'
 gem 'jekyll-mentions', '~> 1.6'
 gem 'jekyll-feed', '~> 0.17.0'
