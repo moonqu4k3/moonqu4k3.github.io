@@ -8,5 +8,12 @@
 				    {% endif %}
 				    <li class="item"><a class="link" href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 				{% endfor %}
+			{% for item in site.data.navigation %}
+      <ul>
+        {% for entry in item.subfolderitems %}
+          <li class="item"><a class="link" href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+				{% endfor %}
+        {% endfor %}
+      </ul>
         </ul>
     </nav>
