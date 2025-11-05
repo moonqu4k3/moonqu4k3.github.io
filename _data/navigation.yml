@@ -11,17 +11,6 @@
 
 - title: projects
   url: /projects/
-  
-- title: more pages
-subfolderitems:
-  - page: art
-    url: /art/
-  - page: writing
-    url: /writing/
-  - page: edits
-    url: /edits/
-  - page: shrines
-    url: /shrines/
 
 - title: sitemap
   url: /sitemap/
