@@ -55,7 +55,7 @@ steam: moonqu4ke
 # paginate_path: "blog/:num/"
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
