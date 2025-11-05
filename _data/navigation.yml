@@ -12,17 +12,16 @@
 - title: projects
   url: /projects/
 
-- title: art
-  url: /art/
-
-- title: writing
-  url: /writing/
-
-- title: edits
-  url: /edits/
-
-- title: shrines
-  url: /shrines/
+- title: more pages
+subfolderitems:
+  - page: art
+    url: /art/
+  - page: writing
+    url: /writing/
+  - page: edits
+    url: /edits/
+  - page: shrines
+    url: /shrines/
 
 - title: sitemap
   url: /sitemap/
