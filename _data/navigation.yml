@@ -14,13 +14,13 @@
 
 - title: more pages
 subfolderitems:
-  - page: art
+  - title: art
     url: /art/
-  - page: writing
+  - title: writing
     url: /writing/
-  - page: edits
+  - title: edits
     url: /edits/
-  - page: shrines
+  - title: shrines
     url: /shrines/
 
 - title: sitemap
