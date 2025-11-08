@@ -4,7 +4,7 @@ bio:            'Rev A.K.A Aslan</p>23 years old</p>Any pronouns</p>'
 description:    "Amateur at everything but passionate nonetheless. Teller of stories such as EniYukie, HYPERFAITH, and most recently, CelShade. Artist of some skill."
 picture:        'assets/img/Logo.png'
 locale:         en_US
-url:            https://moonqu4k3.github.io
+url:            //moonqu4k3.github.io
 
 # Jekyll
 permalink:      /:title/
