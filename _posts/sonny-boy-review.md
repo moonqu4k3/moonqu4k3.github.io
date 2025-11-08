@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sonny Boy: what does it mean to be a kid
+title: Sonny Boy what does it mean to be a kid
 date: 2012-05-22
 excerpt: "the first of (hopefully) many posts here"
 tags: [anime review, review]
