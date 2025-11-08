@@ -4,7 +4,11 @@ title:  "HYPERFAITH"
 date:   2025-11-01
 excerpt: "Hub for all information about my OC universe, HYPERFAITH"
 project: true
-tags: [oc, cyberpunk, ocuniverse, scifi]
+tag:
+- oc
+- cyberpunk
+- ocuniverse
+- scifi
 ---
 
 {% include toc.html %}
