@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sonny Boy Review
-date: 2012-05-22
+title: "Sonny Boy Review"
+date: 2025-11-08
 excerpt: "the first of (hopefully) many posts here"
 tags: [anime review, review]
 ---
