@@ -18,7 +18,7 @@ Let's back up to the race war for a bit. In the world of SEED, humans are divide
 
 The mobile suit designs of SEED are some of the best I've seen in the franchise thus far. Coming off of Gundam Wing's extravagant and sometimes campy mobile suit designs, SEED's mechanical designers did a fantastic job of giving weight, maintaining realistic movement, and making them aesthetically pleasing. The mobile suits are also quite unique in shapes. Of course, you have the recognizable Gundam and ZAKU platforms making a return, but other mobile suits like the wild cat inspired BuCUE's and the fish-like GOOhN's have unique silhouettes that make them stand out and memorable. Even the Gundam platform mobile suits are diverse enough that you can easily differentiate them if you stripped them of their unique color palettes. Serious props to the mechanical designer, Junichi Akutsu, on that.
 <figure>
-  <a href="https://www.gundam-seed.net/assets/img/destiny/mecha/stand/mecha31.png"<img src="https://www.gundam-seed.net/assets/img/destiny/mecha/stand/mecha31.png"</a>
+  <a href="https://www.gundam-seed.net/assets/img/destiny/mecha/stand/mecha31.png"><img src="https://www.gundam-seed.net/assets/img/destiny/mecha/stand/mecha31.png"</a>
     <figcaption>Rey's Blaze ZAKU Phantom is one of my favorites in the franchise</figcaption>
 </figure>
 
